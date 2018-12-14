@@ -8,13 +8,13 @@ channel for data transfer
 
 ## To Run the FTP Server
 1. Compile the FTP Server using make
-2. Initiate the FTP Server with commands
+2. Initiate the FTP Server with command
 ```
 ftserver <port number between 1024 and 65535>
 ```
 --------------------------------------------------------------------------------
 ## To Run the FTP Client
-1. Ensure permission are setup properly
+1. Ensure permissions are setup properly
 ```
 chmod 777 ftclient.py
 ```
